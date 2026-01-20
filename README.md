@@ -1,16 +1,12 @@
 # ForgeAutoShutdown
 
-<div align="center">
-  <img src="logo.svg" alt="ForgeAutoShutdown Logo" width="128" height="128">
-  
-  [![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-green.svg)](https://www.minecraft.net/)
-  [![Forge](https://img.shields.io/badge/Forge-47.3.0+-orange.svg)](https://files.minecraftforge.net/)
-  [![Java](https://img.shields.io/badge/Java-17-blue.svg)](https://adoptium.net/)
-  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.txt)
-  [![Build](https://github.com/MiXiaoAi/ForgeAutoShutdown/actions/workflows/ci.yml/badge.svg)](https://github.com/MiXiaoAi/ForgeAutoShutdown/actions/workflows/ci.yml)
-  [![Release](https://img.shields.io/github/v/release/MiXiaoAi/ForgeAutoShutdown)](https://github.com/MiXiaoAi/ForgeAutoShutdown/releases/latest)
-  [![Downloads](https://img.shields.io/github/downloads/MiXiaoAi/ForgeAutoShutdown/total)](https://github.com/MiXiaoAi/ForgeAutoShutdown/releases)
-</div>
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-green.svg)](https://www.minecraft.net/)
+[![Forge](https://img.shields.io/badge/Forge-47.3.0+-orange.svg)](https://files.minecraftforge.net/)
+[![Java](https://img.shields.io/badge/Java-17-blue.svg)](https://adoptium.net/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.txt)
+[![Build](https://github.com/MiXiaoAi/ForgeAutoShutdown/actions/workflows/ci.yml/badge.svg)](https://github.com/MiXiaoAi/ForgeAutoShutdown/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/MiXiaoAi/ForgeAutoShutdown)](https://github.com/MiXiaoAi/ForgeAutoShutdown/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/MiXiaoAi/ForgeAutoShutdown/total)](https://github.com/MiXiaoAi/ForgeAutoShutdown/releases)
 
 一个功能强大的 Minecraft Forge 服务器自动关闭模组，支持定时关服、空闲检测、玩家投票和服务器监控等多种关服方式。
 
