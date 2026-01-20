@@ -4,6 +4,9 @@
 [![Forge](https://img.shields.io/badge/Forge-47.3.0+-orange.svg)](https://files.minecraftforge.net/)
 [![Java](https://img.shields.io/badge/Java-17-blue.svg)](https://adoptium.net/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.txt)
+[![Build](https://github.com/MiXiaoAi/ForgeAutoShutdown/actions/workflows/ci.yml/badge.svg)](https://github.com/MiXiaoAi/ForgeAutoShutdown/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/MiXiaoAi/ForgeAutoShutdown)](https://github.com/MiXiaoAi/ForgeAutoShutdown/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/MiXiaoAi/ForgeAutoShutdown/total)](https://github.com/MiXiaoAi/ForgeAutoShutdown/releases)
 
 一个功能强大的 Minecraft Forge 服务器自动关闭模组，支持定时关服、空闲检测、玩家投票和服务器监控等多种关服方式。
 
@@ -153,17 +156,23 @@ IdleTimeout = 60
 
 ## 📦 安装方法
 
-1. 下载 `forgeautoshutdown-1.20.1-1.1.0.jar`
-2. 将文件放入服务器的 `mods` 文件夹
-3. 启动服务器，自动生成配置文件
-4. 编辑配置文件 `world/serverconfig/forgeautoshutdown-server.toml`
-5. 执行 `/forgeautoshutdown reload` 或重启服务器应用配置
+### 方式一：从 Release 下载（推荐）
+1. 访问 [Releases 页面](https://github.com/MiXiaoAi/ForgeAutoShutdown/releases/latest)
+2. 下载最新版本的 `forgeautoshutdown-1.20.1-1.1.0.jar`
+3. 将文件放入服务器的 `mods` 文件夹
+4. 启动服务器，自动生成配置文件
+5. 编辑配置文件 `world/serverconfig/forgeautoshutdown-server.toml`
+6. 执行 `/forgeautoshutdown reload` 或重启服务器应用配置
 
-## 🔨 构建方法
-
+### 方式二：自行构建
 需要 Java 17 或更高版本：
 
 ```bash
+# 克隆仓库
+git clone https://github.com/MiXiaoAi/ForgeAutoShutdown.git
+cd ForgeAutoShutdown
+
+# 构建
 # Windows
 gradlew.bat build
 
