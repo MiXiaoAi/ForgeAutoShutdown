@@ -196,11 +196,11 @@ Build output: `build/libs/forgeautoshutdown-1.20.1-1.1.0.jar`
 - 🔧 Upgraded Gradle to 8.11.1
 - 🔧 Upgraded ForgeGradle to 6.0.x
 
-### � License
+### 📄 License
 
 This project is licensed under the [MIT License](LICENSE.txt)
 
-### � Acknowledgments
+### 🙏 Acknowledgments
 
 - Original authors: [RoyCurtis](https://github.com/RoyCurtis), [Targren](https://gitlab.com/targren)
 - Original project: https://gitlab.com/targren/forgeautoshutdown
