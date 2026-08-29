@@ -4,7 +4,7 @@
 [![Forge](https://img.shields.io/badge/Forge-47.3.0+-orange.svg)](https://files.minecraftforge.net/)
 [![NeoForge](https://img.shields.io/badge/NeoForge-21.1+-blue.svg)](https://neoforged.net/)
 [![Java](https://img.shields.io/badge/Java-17%2F21-blue.svg)](https://adoptium.net/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.txt)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Release](https://img.shields.io/github/v/release/MiXiaoAi/AutoShutdown)](https://github.com/MiXiaoAi/AutoShutdown/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/MiXiaoAi/AutoShutdown/total)](https://github.com/MiXiaoAi/AutoShutdown/releases)
 
@@ -195,7 +195,7 @@ See [CHANGELOG.md](CHANGELOG.md)
 
 ### 📄 License
 
-This project is licensed under the [MIT License](LICENSE.txt)
+This project is licensed under the [MIT License](LICENSE)
 
 ### 🙏 Acknowledgments
 
@@ -395,7 +395,7 @@ gradlew.bat build
 
 ### 📄 许可证
 
-本项目采用 [MIT 许可证](LICENSE.txt)
+本项目采用 [MIT 许可证](LICENSE)
 
 ### 🙏 致谢
 
